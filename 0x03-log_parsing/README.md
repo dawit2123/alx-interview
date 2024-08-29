@@ -5,4 +5,4 @@ Curriculum <br>
 
 `Algorithm` `Python` `Permissions`
 
-#### Copyright &copy; 2024. Made by Dawit Zewdu.
+#### Copyright &copy; 2024. Made By Dawit Zewdu.
