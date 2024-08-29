@@ -1,3 +1,5 @@
-# Log Parsing
+# Project Name
 
-##### Copyright &copy; 2024. Made by Dawit Zewdu.
+**0x03. Log Parsing**
+
+##### Copyright &copy; 2024. Mady By Dawit Zewdu Munie.
