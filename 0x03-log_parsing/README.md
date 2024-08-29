@@ -1,3 +1,3 @@
-# 0x03-log_parsing
+# Log Parsing
 
-#### Copyright &copy; 2024. Mady by Dawit Zewdu.
+##### Copyright &copy; 2024. Made by Dawit Zewdu.
